@@ -6,6 +6,12 @@ module.exports = {
 			if (str.length === 0) {
 				return null;
 			}
+
+			var result = str.split("").reverse().join("");
+
+			if (result === str) {
+				return true;
+			}
 		}
 	}
 }
