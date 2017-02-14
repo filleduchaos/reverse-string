@@ -1,0 +1,23 @@
+{
+  "name": "reverse-string",
+  "version": "1.0.0",
+  "description": "Javascript project for Andela Home Study Day 2 (ReverseString)",
+  "main": "index.js",
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jasmine spec/reversestring-spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/princess-essien/reverse-string.git"
+  },
+  "author": "Princess-Jewel Essien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/princess-essien/reverse-string/issues"
+  },
+  "homepage": "https://github.com/princess-essien/reverse-string#readme"
+}
